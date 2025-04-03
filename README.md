@@ -5,3 +5,5 @@
 Collection of funny sounds
 
 Коллекция забавных звуков
+
+Official website/Официальный сайт - https://nfcminion.github.io/Minion/
